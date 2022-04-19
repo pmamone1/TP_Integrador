@@ -1,0 +1,54 @@
+*{
+ margin:0;
+ padding:0;  
+}
+
+#sec_cards{
+    margin-left: 1%;
+    margin-right: 1%;
+    display: flex;
+    justify-content:space-around;
+}
+p{
+    width: 20vw;
+}
+.card{
+    margin:10px;
+    width: 30vw;
+    height:50vh;
+    border:1px solid;
+}
+img{
+    object-fit:cover;
+}
+
+#imagen_html{
+    width:30vw;
+    height:30vh;
+    background-size:cover;
+    background-position:center;
+}
+#imagen_css{
+    width:25vw;
+    height:30vh;
+    background-size:cover;
+    background-position:center;
+}
+#imagen_bootstrap{
+    width:25vw;
+    height:30vh;
+    background-size:cover;
+    background-position:center;
+}
+
+.grupo{
+    width:90vw;
+    margin-left:-8vw;
+   
+}
+#cbox{
+    margin-right: 1em;
+}
+.form{
+    margin-top:2em;
+}
